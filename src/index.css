@@ -1,8 +1,7 @@
+@import './palette.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import './palette.css';
 
 @layer base {
   html {
