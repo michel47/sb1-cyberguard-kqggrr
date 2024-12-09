@@ -1,0 +1,66 @@
+.cyber {
+    /* Text colors are inverted for contrast */
+    --text-50: #f2f6ef;  /* Lightest */
+    --text-100: #e5ecdf;
+    --text-200: #cbd9bf;
+    --text-300: #b1c69f;
+    --text-400: #96b47e;
+    --text-500: #7ca15e;
+    --text-600: #63814b;
+    --text-700: #4b6039;
+    --text-800: #324026;
+    --text-900: #192013;
+    --text-950: #0c1009;  /* Darkest */
+
+    /* Background colors */
+    --background-50: #0d100a;  /* Darkest */
+    --background-100: #1a2013;
+    --background-200: #334026;
+    --background-300: #4d6039;
+    --background-400: #66804d;
+    --background-500: #809f60;
+    --background-600: #99b380;
+    --background-700: #b3c69f;
+    --background-800: #ccd9bf;
+    --background-900: #e6ecdf;
+    --background-950: #f2f5ef;  /* Lightest */
+
+    /* Primary colors - Green theme */
+    --primary-50: #0d1009;
+    --primary-100: #1a2013;
+    --primary-200: #334026;
+    --primary-300: #4d6039;
+    --primary-400: #66814b;
+    --primary-500: #80a15e;
+    --primary-600: #99b47e;
+    --primary-700: #b3c69f;
+    --primary-800: #ccd9bf;
+    --primary-900: #e6ecdf;
+    --primary-950: #f2f6ef;
+
+    /* Secondary colors - Purple theme */
+    --secondary-50: #0d0910;
+    --secondary-100: #1a1320;
+    --secondary-200: #342640;
+    --secondary-300: #4e3960;
+    --secondary-400: #684d80;
+    --secondary-500: #82609f;
+    --secondary-600: #9b80b3;
+    --secondary-700: #b49fc6;
+    --secondary-800: #cdbfd9;
+    --secondary-900: #e6dfec;
+    --secondary-950: #f2eff5;
+
+    /* Accent colors - Rose theme */
+    --accent-50: #10090d;
+    --accent-100: #20131a;
+    --accent-200: #402633;
+    --accent-300: #60394d;
+    --accent-400: #814b66;
+    --accent-500: #a15e80;
+    --accent-600: #b47e99;
+    --accent-700: #c69fb3;
+    --accent-800: #d9bfcc;
+    --accent-900: #ecdfe6;
+    --accent-950: #f6eff2;
+}
